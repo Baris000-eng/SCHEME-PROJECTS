@@ -1,0 +1,1 @@
+("8.2" ta6osx ("e626398a7d0ec05bf49677b491b440e1f01f8b70" . "ef9e15182998eab4be7560fa5f63b7ceab3f929d") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"errortrace" #"errortrace-key.rkt"))
